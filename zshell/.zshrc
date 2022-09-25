@@ -1,3 +1,4 @@
+ZSH_THEME="spaceship"
 SPACESHIP_PROMPT_ORDER=(
   user          # Username section
   dir           # Current directory section
